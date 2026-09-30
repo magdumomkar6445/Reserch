@@ -1,0 +1,9 @@
+{
+  "name": "tech-titansss-research-links",
+  "version": "1.0.0",
+  "description": "Shared research links board for Team Tech_Titansss (POLAROPS, SIH 2026)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" },
+  "license": "MIT"
+}
